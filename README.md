@@ -28,32 +28,30 @@ The main objective of the project is to develop a highly accurate Heart Disease 
 
 
 # Application Areas:
-1. Hospitals and Clinics
+**1. Hospitals and Clinics**
 
 a. Early detection and diagnosis of heart disease in patients.
 b. Assisting cardiologists and healthcare providers in decision-making.
 c. Risk assessment for patients with underlying health conditions.
 
-2. Telemedicine
+**2. Telemedicine**
 
 a. Remote monitoring of patient health.
 b. Providing predictive analysis during virtual consultations.
 
-3. Health Insurance
+**3. Health Insurance**
 
 a. Risk assessment for policy underwriting.
 b. Preventive healthcare incentives based on predictive insights.
 c. Fitness and Wellness Programs
 
 # Usecases:
-1. Preventive Care
+**1. Preventive Care**
 
 a. Identifying individuals at high risk of heart disease and recommending lifestyle or medical interventions.
 b. Screening asymptomatic patients during routine check-ups.
 
-2. Clinical Decision Support
+**2. Clinical Decision Support**
 
 a. Providing doctors with predictive insights to prioritize patient care.
 b. Guiding treatment plans based on disease likelihood.
-
-
