@@ -26,6 +26,9 @@ The main objective of the project is to develop a highly accurate Heart Disease 
 
 # Application demo:
 
+![Screenshot 2024-11-22 235150](https://github.com/user-attachments/assets/99f28054-03b9-4597-b88b-7f10000dcaad)
+
+![Screenshot 2024-11-22 235046](https://github.com/user-attachments/assets/4b52f7ab-2c19-47e5-a9a7-74a95639c7de)
 
 # Application Areas:
 **1. Hospitals and Clinics**
