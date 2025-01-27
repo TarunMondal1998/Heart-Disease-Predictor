@@ -5,7 +5,7 @@
 The main objective of the project is to develop a highly accurate Heart Disease predictor system using Machine Learning Algorithms.
 
 
-## Programmming Language:
+## Programming Language:
 1. Python
 
 ## Software:
@@ -25,7 +25,7 @@ The main objective of the project is to develop a highly accurate Heart Disease 
 ## Models with accuracy:
 1. Logistic Regression: with an accuracy of 82.14%
 2. XGBoost Classifier: with an accuracy of 99.03%
-3. MLP CClassifier: with an accuracy of 85.06%
+3. MLP Classifier: with an accuracy of 85.06%
 
 ## Application demo:
 
